@@ -8,12 +8,22 @@ Meu nome é Ste, e sou uma Designer UX/UI, Product Designer e Web Designer. Esto
 - 👯 Estou procurando colaborar em projetos que combinem design e desenvolvimento para criar experiências de usuário excepcionais.
 - 💬 Pergunte-me sobre design de produtos, interfaces de usuário, ou qualquer coisa relacionada a experiência do usuário!
 
+## Habilidades e Experiências
+
+- **Frameworks:** Double Diamond Design, Personas, Benchmarking, Análise de mercado, Design Thinking, Pesquisa com usuários, Matriz CSD, Design Sprint e Opportunity Solution Tree.
+- **Jornada do Usuário:** Expertise em mapeamento e otimização da jornada do usuário (Customer Journey).
+- **Design System:** Desenvolvimento e implementação de sistemas de design para garantir consistência e eficiência no design de produtos.
+- **Testes de Usabilidade:** Realização de testes de conceito e usabilidade para obter feedback valioso e iterar no design.
+- **Prototipagem:** Criação de wireframes e protótipos de baixa, média e alta fidelidade para interfaces web e apps.
+- **Colaboração:** Interação próxima com times de desenvolvimento, entrega de especificações claras e apoio na implementação das soluções de design.
+- **Definição de Metas e Métricas:** Estabelecimento de metas e métricas para garantir o sucesso do projeto e a satisfação do usuário.
+
 ## Tecnologias
 
 Aqui estão algumas das tecnologias com as quais estou começando a me familiarizar:
 
 - Linguagens de Programação: HTML, CSS, JavaScript
-- Ferramentas de Design: Adobe XD, Figma, Sketch
+- Ferramentas de Design:Figma, FigJam, Miro, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator
 - Ferramentas de Desenvolvimento: Visual Studio Code, Git
 
 ## Estatísticas do GitHub
