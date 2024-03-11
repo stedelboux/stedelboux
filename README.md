@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias com as quais estou começando a me familiari
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/stedelboux)
 
 ## Entre em Contato
 
