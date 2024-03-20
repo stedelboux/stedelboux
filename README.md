@@ -23,7 +23,6 @@ Meu nome é Ste, e sou uma Designer UX/UI, Product Designer e Web Designer. Esto
 Aqui estão algumas das tecnologias com as quais estou começando a me familiarizar:
 
 - Linguagens de Programação: HTML, CSS, JavaScript
-- Ferramentas de Design:Figma, FigJam, Miro, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator
 - Ferramentas de Desenvolvimento: Visual Studio Code, Git
 
 ## Estatísticas do GitHub
