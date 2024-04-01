@@ -33,8 +33,8 @@ Aqui estão algumas das tecnologias com as quais estou começando a me familiari
 
 Você pode me encontrar em várias plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/stedelboux/))
-- [Twitter](https://twitter.com/stedelboux))
-- [Website/Blog](https://stedelboux.com/))
+- [LinkedIn](https://www.linkedin.com/in/stedelboux/)
+- [Twitter](https://twitter.com/stedelboux)
+- [Website/Blog](https://stedelboux.com/)
 
 Fique à vontade para explorar meus repositórios e entrar em contato! 😊
