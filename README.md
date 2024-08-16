@@ -4,11 +4,11 @@ Meu nome é Ste, e sou um Designer UX/UI, Product Designer e Web Designer. Estou
 
 ## Sobre Mim
 
-## Acesse > [https://stedelboux.com/](https://stedelboux.com/)
-
 - 🌱 Atualmente estou aprendendo programação para complementar minhas habilidades de design.
 - 👯 Estou procurando colaborar em projetos que combinem design e desenvolvimento para criar experiências de usuário excepcionais.
 - 💬 Pergunte-me sobre design de produtos, interfaces de usuário, ou qualquer coisa relacionada a experiência do usuário!
+
+## Acesse > [https://stedelboux.com/](https://stedelboux.com/)
 
 ## Habilidades e Experiências
 
