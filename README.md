@@ -1,8 +1,10 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo ao meu perfil do GitHub! 👋 📍 SP | 🏳️‍⚧ 🏳️‍🌈 
 
-Meu nome é Ste, e sou uma Designer UX/UI, Product Designer e Web Designer. Estou interessada em aprender programação e adoro trabalhar em projetos centrados na experiência do usuário.
+Meu nome é Ste, e sou um Designer UX/UI, Product Designer e Web Designer. Estou interessado em aprender programação e adoro trabalhar em projetos centrados na experiência do usuário.
 
 ## Sobre Mim
+
+## acesse > [https://stedelboux.com/](https://stedelboux.com/)
 
 - 🌱 Atualmente estou aprendendo programação para complementar minhas habilidades de design.
 - 👯 Estou procurando colaborar em projetos que combinem design e desenvolvimento para criar experiências de usuário excepcionais.
