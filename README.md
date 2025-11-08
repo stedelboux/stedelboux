@@ -1,6 +1,10 @@
 # Bem-vindo ao meu perfil do GitHub! 👋 📍 SP | 🏳️‍⚧ 🏳️‍🌈 
 
-Meu nome é Ste, e sou um Designer UX/UI, Product Designer e Web Designer. Estou interessado em aprender programação e adoro trabalhar em projetos centrados na experiência do usuário.
+Sou Ste, Designer UX/UI, Product Designer e Web Designer, com forte interesse em programação e na criação de soluções centradas na experiência do usuário. Atuo há anos em projetos digitais que unem estratégia, inovação e tecnologia, desenvolvendo experiências intuitivas, acessíveis e inclusivas.
+
+Tenho experiência liderando iniciativas de design colaborativo, facilitando workshops e integrando equipes multidisciplinares para transformar ideias em produtos escaláveis. Entre minhas principais conquistas estão a implementação de processos de design mais ágeis, iniciativas de acessibilidade e a integração de IA — como ChatGPT e FigmaMake — para otimizar fluxos, gerar insights e acelerar prototipação.
+
+Sou movido por desafios que combinam criatividade, estratégia e tecnologia, sempre buscando gerar soluções que conectem pessoas e negócios de forma significativa.
 
 ## Sobre Mim
 
