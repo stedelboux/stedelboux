@@ -8,28 +8,46 @@ Sou movido por desafios que combinam criatividade, estratégia e tecnologia, sem
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo programação para complementar minhas habilidades de design.
-- 👯 Estou procurando colaborar em projetos que combinem design e desenvolvimento para criar experiências de usuário excepcionais.
-- 💬 Pergunte-me sobre design de produtos, interfaces de usuário, ou qualquer coisa relacionada a experiência do usuário!
+🌱 Atualmente estou expandindo minhas habilidades em programação para integrar melhor design, tecnologia e experiência do usuário.
+👯 Busco colaborar em projetos que unam design e desenvolvimento, criando produtos digitais funcionais, acessíveis e visualmente consistentes.
+💬 Gosto de conversar sobre UX/UI, design de produtos, prototipagem, acessibilidade e inovação centrada no usuário.
 
 ## Acesse > [https://stedelboux.com/](https://stedelboux.com/)
 
 ## Habilidades e Experiências
 
-- **Frameworks:** Double Diamond Design, Personas, Benchmarking, Análise de mercado, Design Thinking, Pesquisa com usuários, Matriz CSD, Design Sprint e Opportunity Solution Tree.
-- **Jornada do Usuário:** Expertise em mapeamento e otimização da jornada do usuário (Customer Journey).
-- **Design System:** Desenvolvimento e implementação de sistemas de design para garantir consistência e eficiência no design de produtos.
-- **Testes de Usabilidade:** Realização de testes de conceito e usabilidade para obter feedback valioso e iterar no design.
-- **Prototipagem:** Criação de wireframes e protótipos de baixa, média e alta fidelidade para interfaces web e apps.
-- **Colaboração:** Interação próxima com times de desenvolvimento, entrega de especificações claras e apoio na implementação das soluções de design.
-- **Definição de Metas e Métricas:** Estabelecimento de metas e métricas para garantir o sucesso do projeto e a satisfação do usuário.
+Frameworks e Métodos
+Aplicação de frameworks como Double Diamond Design, Design Thinking, Design Sprint, Opportunity Solution Tree, Personas, Benchmarking, Matriz CSD e Pesquisa com Usuários, guiando o processo de Product Discovery e decisões orientadas a dados e insights reais.
 
-## Tecnologias
+Jornada do Usuário
+Expertise em mapeamento e otimização da Customer Journey, identificando pontos de dor e oportunidades para criar experiências mais fluídas, acessíveis e centradas nas pessoas.
 
-Aqui estão algumas das tecnologias com as quais estou começando a me familiarizar:
+Design System
+Desenvolvimento e evolução de Design Systems escaláveis, garantindo consistência visual, eficiência e aderência técnica entre squads de produto e engenharia.
 
-- Linguagens de Programação: HTML, CSS, JavaScript
-- Ferramentas de Desenvolvimento: Visual Studio Code, Git
+Testes e Validação
+Planejamento e condução de testes de conceito e usabilidade, coleta de feedbacks qualitativos e quantitativos e iteração contínua de soluções, com foco em aprendizado rápido e melhoria constante.
+
+Prototipagem
+Criação de wireframes e protótipos interativos de baixa, média e alta fidelidade no Figma, explorando também IA aplicada (como ChatGPT e FigmaMake) para acelerar ideação, validação e personalização de experiências.
+
+Colaboração e Entregas
+Atuação integrada com times de tecnologia, produto e negócios, traduzindo requisitos em entregas tangíveis, especificações claras e soluções tecnicamente viáveis.
+
+Métricas e Sucesso do Produto
+Definição de objetivos e métricas de experiência (UX Metrics) para mensurar impacto, orientar decisões estratégicas e garantir o alinhamento entre valor para o usuário e resultado para o negócio.
+
+## Tecnologias em Aprendizado e Exploração
+
+Tenho me aprofundado em linguagens e ferramentas que ampliam minha visão sobre o ciclo completo de desenvolvimento digital, fortalecendo a colaboração entre design, produto e engenharia.
+
+Linguagens: HTML, CSS, JavaScript, Python e Java — exploradas para compreender lógica de programação, integração com APIs e construção de protótipos funcionais.
+
+Frameworks e Bibliotecas: React — utilizado em estudos de componentes reutilizáveis e interação dinâmica entre interface e dados.
+
+Ambiente de Desenvolvimento: Visual Studio Code — aplicado em experimentação, versionamento e prototipagem técnica.
+
+Controle de Versão: Git e GitHub — para colaboração, versionamento e documentação de entregas técnicas.
 
 ## Estatísticas do GitHub
 
