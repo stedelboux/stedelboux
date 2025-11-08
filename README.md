@@ -1,4 +1,4 @@
-# Bem-vinde ao meu perfil do GitHub! 👋 📍 SP | 🏳️‍⚧ 🏳️‍🌈 
+# Bem-vindo ao meu perfil do GitHub! 👋 📍 SP | 🏳️‍⚧ 🏳️‍🌈 
 
 Meu nome é Ste, e sou um Designer UX/UI, Product Designer e Web Designer. Estou interessado em aprender programação e adoro trabalhar em projetos centrados na experiência do usuário.
 
